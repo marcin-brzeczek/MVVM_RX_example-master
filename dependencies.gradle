@@ -1,0 +1,9 @@
+ext {
+
+    versionLifecycle = "2.0.0"
+
+    implementationDependencies = [
+            "androidx.lifecycle:lifecycle-extensions:$versionLifecycle",
+            "androidx.lifecycle:lifecycle-viewmodel-ktx:$versionLifecycle",
+     ]
+}
